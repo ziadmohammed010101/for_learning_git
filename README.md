@@ -7,6 +7,6 @@
 - item_1
 + item_2
 * item_3
-1.item_4
+1. item_4
 
 [google](http://www.google.com)
