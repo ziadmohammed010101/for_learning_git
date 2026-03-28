@@ -13,4 +13,6 @@
 ![image](http://www.image.com)
 
 `cout << "Enter code";`
-```cout << "Enter code";```
+```
+cout << "Enter code";
+```
